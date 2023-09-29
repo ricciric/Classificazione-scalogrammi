@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+  <filename>complete-361.csv</filename>
+  <size>
+    <width>2500</width>
+    <height>15</height>
+    <depth>1</depth>
+  </size>
+  <boxes>
+    <object>
+      <name>noise</name>
+      <bndbox>
+        <xmin>0</xmin>
+        <xmax>2499</xmax>
+        <ymin>-1</ymin>
+        <ymax>-1</ymax>
+        <period>26132</period>
+        <soglia>0.54</soglia>
+      </bndbox>
+    </object>
+  </boxes>
+</annotation>

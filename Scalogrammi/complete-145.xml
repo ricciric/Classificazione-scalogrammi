@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+  <filename>complete-145.csv</filename>
+  <size>
+    <width>2500</width>
+    <height>15</height>
+    <depth>1</depth>
+  </size>
+  <boxes>
+    <object>
+      <name>fragment</name>
+      <bndbox>
+        <xmin>0</xmin>
+        <xmax>2499</xmax>
+        <ymin>6</ymin>
+        <ymax>7</ymax>
+        <period>142</period>
+        <soglia>0.18</soglia>
+      </bndbox>
+    </object>
+  </boxes>
+</annotation>
